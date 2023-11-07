@@ -1,4 +1,3 @@
-theme: minima
 
 # santoshmallah.github.io
 
